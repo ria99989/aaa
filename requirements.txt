@@ -1,3 +1,5 @@
 pillow
+opencv-python-headless
+openpyxl
 pytesseract
 pytest
