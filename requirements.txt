@@ -3,3 +3,5 @@ opencv-python-headless
 openpyxl
 pytesseract
 pytest
+yt-dlp
+numpy

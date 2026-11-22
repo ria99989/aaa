@@ -13,6 +13,7 @@
   - `python -m objcut samples/object1.png out --mode white`(`cutout` / `white` / `boxes`)
   - ![demo](docs/img/objcut_demo.png)
   - 合成データでの前景マスク IoU は約 0.98。実写の複雑な背景では精度が落ちるため、案件では事前に見本で確認します
+- `valoclip/` … VALORANT の動画(YouTube URL 可)からキル場面を自動で切り出し、分析メモを作る(`python -m valoclip analyze URL -o valo_out`)。詳細は `valoclip/README.md`、研究ノートは `docs/DUELIST_STUDY.md`
 - `docs/PLAN.md` … 4週間の行動計画と収益目標
 - `docs/GIGS.md` … ココナラ等への出品文ドラフト
 - `docs/PROPOSALS.md` … クラウドソーシング提案文テンプレート

@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 out.csv
 *.csv
+valo_out/videos/
+*.mp4
+calibrate.png
